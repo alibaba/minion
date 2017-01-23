@@ -65,5 +65,8 @@ SOURCE:  资源的url
 5. PEER1 从 PEER0 获取资源
 6. PEER1 上传资源到 TRACKER
 
+## License
+
+Minion 适用 GPLv2 开源协议
 
 [English](/README.md)

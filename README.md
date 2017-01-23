@@ -75,5 +75,9 @@ STEP
 5. PEER1 get SOURCE from PEER0
 6. PEER1 do like step 3
 
+## License
+
+Minion as a whole is released under the GNU General Public License
+version 2.
 
 [中文](/README.cn.md)

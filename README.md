@@ -1,6 +1,6 @@
 ### Introduction
 
-Minion, which achives an approoach to broadbrand traffic like BT,
+Minion, which achives an approach to broadbrand traffic like BT,
 implemented by python and based on HTTP protocol
 
 Minion can be easily used to dispatch data, similar to curl/wget. It

@@ -15,6 +15,7 @@ minion tracker need python 2.7, django mysql
 ```
 git clone git://github.com/alibaba/minion
 cd minion
+pip install -r requirements.txt
 python setup.py install
 ```
 

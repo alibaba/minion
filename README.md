@@ -1,7 +1,8 @@
 ### Introduction
 
-Minion, which achives an approach to broadbrand traffic like BT,
-implemented by python and based on HTTP protocol
+Minion, which achieves an approach to maximize utilization of
+broadband traffic like BT, implemented by python and based on HTTP
+protocol
 
 Minion can be easily used to dispatch data, similar to curl/wget. It
 also provides python API libs.
@@ -61,9 +62,9 @@ Minion work as picture below
 ![image](/docs/p2p_flow.png)
 
 
-PEER:    The host ready to download SOURCE  
-TRACKER: The host manage PEERs and SOURCEs  
-SOURCE:  URL of some data  
+PEER:    The host ready to download SOURCE
+TRACKER: The host manage PEERs and SOURCEs
+SOURCE:  URL of some data
 
 
 STEP
